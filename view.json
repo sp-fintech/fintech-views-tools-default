@@ -12,20 +12,26 @@
 		"core" : 
 		{
 			"name" : "Core",
-			"version" : "0.0.0",
-			"repo" : "https://.../"
+			"version" : "0.0.0-rc.8",
+			"repo" : "https://github.com/sp-framework/core"
 		},
 		"components" : [],
 		"packages" : 
 		[
 			{
 				"name" : "Adminltetags",
-				"version" : "0.0.0",
-				"repo" : "https://.../"
+				"version" : "0.3.0",
+				"repo" : "https://github.com/sp-fintech/fintech-packages-viewtags-adminltetags"
 			}
 		],
 		"middlewares" : [],
-		"views" : []
+		"views" : [],
+		"apptype" : 
+		{
+			"name" : "Fintech",
+			"version" : "0.3.0",
+			"repo" : "https://github.com/sp-fintech/fintech"
+		}
 	},
 	"is_subview" : false,
 	"settings" : 
