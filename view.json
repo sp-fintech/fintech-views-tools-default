@@ -1,7 +1,7 @@
 {
 	"name" : "Default",
-	"display_name" : "SP Framework Fintech Default View",
-	"description" : "<p>Default Fintech View</p>",
+	"display_name" : "Fintech Default View",
+	"description" : "<p>Fintech Default View</p>",
 	"module_type" : "views",
 	"app_type" : "fintech",
 	"category" : "tools",
